@@ -3,7 +3,7 @@
 This is a simple men's fashion shopping website built with HTML, CSS, JavaScript, PHP, and SQL. The website allows users to log in, browse product categories, add products to the cart, and checkout.
 
 ## Project Structure
-
+```
 Men_Fashion_Shop/
 ├── css/
 │   └── style.css
@@ -25,7 +25,7 @@ Men_Fashion_Shop/
 ├── jeans.php
 ├── shoes.php
 └── checkout.php
-
+```
 ## Features
 
 - User authentication (login and signup)
@@ -49,7 +49,7 @@ The database contains the following tables:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Men_Fashion_Shop.git
+   git clone https://github.com/Ritik930/Men_Fasion_Shoping_Website/tree/main
    cd Men_Fashion_Shop
    ```
 
